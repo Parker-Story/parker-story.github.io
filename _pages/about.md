@@ -17,21 +17,25 @@ I appreciate the logical and analytical aspects of computer science and computer
 
 ## Experience
 
-###
+### Louisiana Blue (Blue Cross Blue Shield Louisiana)
 
-Quality Assurance Engineer Intern | January 2025 - Current
+Quality Assurance Engineer Intern ~ January 2025 - Current
 
-As a Quality Assurance Engineer Intern at Blue Cross Blue Shield of Louisiana, I design and execute test cases for web applications and backend systems, working closely with developers to improve test coverage and ensure production readiness. I regularly identify, document, and track defects through their full lifecycle, participating in triage discussions and contributing detailed reports that help prioritize fixes efficiently. In addition, I coordinate testing and release communication across QA, development, and business teams to support Agile sprint cycles and reduce regression risk. I have also redesigned key testing procedures and overhauled testing documentation, streamlining handoffs and saving several hours of team effort each week.
+At Blue Cross Blue Shield of Louisiana, I work as a Quality Assurance Engineer Intern focused on ensuring the reliability and quality of large-scale web and backend systems. I collaborate closely with developers, QA engineers, and business teams in an Agile environment to support testing, releases, and continuous improvement across the software development lifecycle.
+
+* Designed and executed manual and automated test cases for web and backend systems, increasing test coverage by 200% against initial targets and improving production readiness.
+
+* Identified, documented, and tracked defects through the full lifecycle, participating in triage discussions and exceeding internal bug reporting goals.
+
+* Redesigned critical testing procedures and overhauled documentation, streamlining handoffs and saving approximately six hours of team effort per week.
 
 ### Old Dominion University 
 
-Research Intern | Summer 2023
+Research Intern ~ Summer 2023
 
 __[MDPI Article](https://www.mdpi.com/2313-433X/9/11/239)__
 
 During my research internship at [Old Dominion University](https://www.odu.edu/academics/research-experiences/reu/cis), I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of [Dr. Ashok](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl=en&oi=ao) and in collaboration with [Satwik Kodandaram](https://scholar.google.com/citations?user=pPFFz6AAAAAJ&hl=en&oi=ao), I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content. 
-
-Key Responsibilities and Contributions:
 
 * Familiarizing Myself with Prior Work: I began my internship by thoroughly reviewing existing literature and research related to screen reader user experiences and deceptive online content. This helped me gain a deep understanding of the challenges and opportunities in this field.
 
@@ -42,7 +46,7 @@ Key Responsibilities and Contributions:
 
 ### University of Louisiana Monroe
 
-Emerging Scholar ~ Spring 2023 - Current
+Emerging Scholar ~ Spring 2023 - January 2025
 
 __[Github Repo](https://github.com/Parker-Story/TestBankGenerator)__
 
@@ -80,21 +84,14 @@ shopping experience
 
 ## Projects
 
-Floyd's Shortest Distance-Path Algorithm 
-
 __[Floyds-Shortest-Distance-Path](https://github.com/Parker-Story/Floyds-Shortest-Distance-Path)__
 
-* Developed a Java application implementing the Floyd-Warshall algorithm to compute the shortest 
-distances and paths between vertices in a graph.
+Developed a Java application implementing the Floyd-Warshall algorithm to compute the shortest distances and paths between vertices in a graph. The program uses an adjacency matrix to represent input, handling self-travel, unexplored paths, and specific path computations, and generates both a distance matrix and a path matrix to clearly display the shortest paths between vertices.
 
-* Utilized an adjacency matrix for input representation, handling vertices with self-travel, unexplored 
-paths, and specific path computations.
+__[Once Upon an Image](https://github.com/Parker-Story/4083-Scene-To-Story-Generator)__
 
-* Generates and outputs a distance matrix and a path matrix to display the shortest distances and 
-paths between vertices
+In this team project, we developed a full-stack web application that takes an image as input and generates an engaging story based on the visual content. The project combined Google Cloud Vision API for image analysis with OpenAI’s API for story generation, creating an interactive experience that blends computer vision and natural language processing
 
-
-Soccer League Manager
 
 __[Soccer-League-Manager](https://github.com/Parker-Story/Soccer-League-Manager)__
 
@@ -104,7 +101,7 @@ A Java program that manages and analyzes soccer league statistics, automating th
 
 ### University of Louisiana Monroe
 Bachelor of Science In Computer Science - 3.838 GPA - August 2022 - May 2026
-  * Clubs: Honors Program, Association for Computing Machinery
+  * Clubs: Honors Program, Association for Computing Machinery, Upsilon Pi Epsilon
 
 ### Iota High School
 4.09 GPA - August 2028 - May 2022
@@ -115,12 +112,14 @@ Bachelor of Science In Computer Science - 3.838 GPA - August 2022 - May 2026
 
 * Languagues: Java, Python, HTML, CSS, JavaScript, C, C++, SQL
 
-* Technologies: Git, React, Angular, Pandas, PyTorch, MongoDB
+* Technologies: Git, React, Angular, Pandas, PyTorch, MongoDB, REST/JSON APIs, MySQL
 
 * Other: Problem Solving and Logical Thinking, Written and Verbal Communication, Teamwork, 
   Software Testing and Debugging
 
-## Awards
+## Awards/Certifications
+
+* __[AWS Certified AI Practitioner](https://www.credly.com/badges/57259b66-26db-4023-8b62-afe9061ac219/public_url)__
 
 * President's List: January 2023 - Recognized for outstanding performance in the Fall 2022 semester maintaining a 4.0 GPA.
 
