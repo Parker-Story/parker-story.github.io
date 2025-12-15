@@ -9,4 +9,3 @@ redirect_from:
 
 {% include base_path %}
 
-[Access resume here](https://parker-story.github.io/files/resume.pdf)

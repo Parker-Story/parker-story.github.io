@@ -10,16 +10,22 @@ redirect_from:
 About me
 ======
 
-I am currently a sophmore computer science student at the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
+I am a Senior computer science student at the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
 
 I appreciate the logical and analytical aspects of computer science and computer programming. I also see it as a canvas for creativity. It's an art form where every line and function contributes to something greater than me.
 
 
 ## Experience
 
+###
+
+Quality Assurance Engineer Intern | January 2025 - Current
+
+As a Quality Assurance Engineer Intern at Blue Cross Blue Shield of Louisiana, I design and execute test cases for web applications and backend systems, working closely with developers to improve test coverage and ensure production readiness. I regularly identify, document, and track defects through their full lifecycle, participating in triage discussions and contributing detailed reports that help prioritize fixes efficiently. In addition, I coordinate testing and release communication across QA, development, and business teams to support Agile sprint cycles and reduce regression risk. I have also redesigned key testing procedures and overhauled testing documentation, streamlining handoffs and saving several hours of team effort each week.
+
 ### Old Dominion University 
 
-Research Intern - Summer 2023
+Research Intern | Summer 2023
 
 During my research internship at [Old Dominion University](https://www.odu.edu/academics/research-experiences/reu/cis), I had the privilege of contributing to an innovative project focused on enhancing the online experience for screen reader users. Under the guidance of [Dr. Ashok](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl=en&oi=ao) and in collaboration with [Satwik Kodandaram](https://scholar.google.com/citations?user=pPFFz6AAAAAJ&hl=en&oi=ao), I played a crucial role in the research and development of a comprehensive browser extension designed to protect screen reader users from deceptive online content.
 
