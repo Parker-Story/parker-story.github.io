@@ -69,18 +69,15 @@ Key Contributions and Responsibilities:
 
 ### Target
 
-Service Associate ~ September - Current
+Service Associate ~ September 2022 - January 2025
 
-* Processed transactions accurately, handling cash, credit, and digital payments while adhering to company
-policies.
+* Processed transactions accurately, handling cash, credit, and digital payments while adhering to company policies.
 
 * Assisted in training new team members, fostering a collaborative and supportive work environment.
 
-* Utilized effective communication skills to explain product features, promotions, and services to customers,
-enhancing their shopping experience.
+* Utilized effective communication skills to explain product features, promotions, and services to customers, enhancing their shopping experience.
 
-* Provided exceptional customer service with inquiries, returns, and purchases, ensuring a positive
-shopping experience
+* Provided exceptional customer service with inquiries, returns, and purchases, ensuring a positive shopping experience
 
 ## Projects
 
