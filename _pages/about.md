@@ -79,25 +79,6 @@ Service Associate ~ September 2022 - January 2025
 
 * Provided exceptional customer service with inquiries, returns, and purchases, ensuring a positive shopping experience
 
-## Projects
-
-__[CodeHawk-ULM](https://github.com/Parker-Story/CodeHawk-ULM)__
-
-Leading a team developing an automated grading system supporting
-multi-language submissions and faculty rubric creation through RESTful APIs for roster synchronization and grade uploads. Building scalable backend pipelines for test execution, structured JSON-based feedback generation, and data processing to support reliable system integration.
-
-__[Once Upon an Image](https://github.com/Parker-Story/4083-Scene-To-Story-Generator)__
-
-In this team project, we developed a full-stack web application that takes an image as input and generates an engaging story based on the visual content. The project combined Google Cloud Vision API for image analysis with OpenAI’s API for story generation, creating an interactive experience that blends computer vision and natural language processing
-
-__[Floyds-Shortest-Distance-Path](https://github.com/Parker-Story/Floyds-Shortest-Distance-Path)__
-
-Developed a Java application implementing the Floyd-Warshall algorithm to compute the shortest distances and paths between vertices in a graph. The program uses an adjacency matrix to represent input, handling self-travel, unexplored paths, and specific path computations, and generates both a distance matrix and a path matrix to clearly display the shortest paths between vertices.
-
-__[Soccer-League-Manager](https://github.com/Parker-Story/Soccer-League-Manager)__
-
-A Java program that manages and analyzes soccer league statistics, automating the calculation of team records and key metrics from .csv files. The project focused on parsing and processing structured data, implementing statistical analysis to evaluate team performance, and delivering clear, actionable outputs.
-
 ## Education
 
 ### University of Louisiana Monroe
