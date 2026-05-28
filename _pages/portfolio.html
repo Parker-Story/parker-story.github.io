@@ -7,8 +7,51 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+  margin-top: 1em;
+}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+.portfolio-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  padding: 1.5em;
+  background: #fff;
+}
 
+.portfolio-card h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  font-size: 1.2em;
+}
+
+.portfolio-card .card-body {
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.portfolio-card .card-body p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 700px) {
+  .portfolio-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+    <div class="portfolio-card">
+      <h2>{{ post.title }}</h2>
+      <div class="card-body">
+        {{ post.content | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
