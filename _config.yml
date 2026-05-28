@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Parker Story"
   avatar           : "profile.png"
-  bio              : "BS Comp Sci Student @ ULM"
+  bio              : "Software QA Engineer @ LA BLUE"
   location         : "Monroe Louisiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "parkerglenn03@gmail.com"
+  email            : "parkerstory.cs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
