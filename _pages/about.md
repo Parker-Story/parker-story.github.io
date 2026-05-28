@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-I am a Senior computer science student at the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) and on track to graduate May of 2026. 
+I am a recent Computer Science graduate from the [University of Louisiana Monroe](https://www.ulm.edu/cbss/computerscience/program/) working as a Software Quality Assurance Engineer at [Louisiana Blue (Blue Cross Blue Shield of Louisiana)](https://www.bcbsla.com/).
 
 I appreciate the logical and analytical aspects of computer science and computer programming. I also see it as a canvas for creativity. It's an art form where every line and function contributes to something greater than me.
 
